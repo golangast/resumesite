@@ -2,6 +2,9 @@ package main
 
 import (
 	"github.com/labstack/echo/v4"
+
+	//form "gitlab.com/zendrulat123/zegsite/handler/form"
+	. "github.com/golangast/resumesite/handler"
 )
 
 //Routes is for routing
